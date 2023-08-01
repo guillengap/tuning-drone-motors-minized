@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"Z_system": {
+			"proto_instances": {
+			}
+		}
+	}
+}
